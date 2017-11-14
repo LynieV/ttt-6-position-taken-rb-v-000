@@ -2,6 +2,6 @@
 def position_taken?(board, index)
   if board[index] == [" " || "" || nil]
   else
-    puts ["X" || "O"]
+    puts gets.strip
  end
 end
