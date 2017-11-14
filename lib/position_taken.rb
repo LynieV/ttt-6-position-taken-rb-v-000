@@ -4,4 +4,3 @@ def position_taken?(board, index)
   else
     returns ["X" or "O"]
  end
-end
