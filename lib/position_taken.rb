@@ -2,6 +2,6 @@
 def position_taken?(board, index)
   if board[index] == [" " || "" || nil]
   else
-    puts gets.strip
+    returns "X" or "O"
  end
 end
