@@ -2,4 +2,5 @@
 def position_taken?(board, index)
   if board[index] == [" " || "" || nil]
     puts ["X" || "O"]
+  end
 end
