@@ -8,3 +8,4 @@ if board[index] == [" " || "" || nil]
 else
     returns ["X" or "O"]
 end
+end
