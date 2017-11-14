@@ -4,4 +4,5 @@ def position_taken?(board, index)
     returns false
   else board[index] != "X" && board[index] != "O"
     returns true
+  end
 end
